@@ -1,2 +1,2 @@
 # maze
-a maze map and robot system use RL
+a platform and robot system for RL
